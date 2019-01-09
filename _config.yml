@@ -9,16 +9,14 @@ description: "A Time Travel" # used by search engines
 theme_settings:
   # Meta
   title: A Story # blog's title
-  avatar: assets/img/triangle.svg
-  favicon: assets/favicon.ico
+ avatar: assets/img/icon.svg
+  favicon: assets/img/favicon.ico
   gravatar: CFC919D7671DD101B036109961CA2297 # Email MD5 hash
 
   # Header and footer text
-  header_text: > #two or three lines to describe your site
-     <p>Mathematics is as elegant as the finest of women.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
-  footer_text: Glad to have met you.
-
+  <p> After a while,<br/> we don't regret what we did, <br/>but that we didn't.</p>
+  header_feature_image: assets/img/pexels/triangular.jpeg
+  footer_text: Wanna be friends? Contacts below ;)
   # Icons
   rss: false  # Make sure you created a feed.xml with feed.xml layout
   email_address: kaustubh1303@gmail.com # Full email address, e.g. "sam@example.com"
