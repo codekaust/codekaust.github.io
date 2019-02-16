@@ -2,7 +2,6 @@
 layout: post
 title: "Life_Paper - Hardest Experience"
 tags: [Life_Paper]
-feature-img: assets/img/myimages/refresh.jpg
 ---
 I failed, its OKAY. I will try again. More energy more commitment.
 
