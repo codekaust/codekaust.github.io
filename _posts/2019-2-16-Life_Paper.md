@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life_Paper #9DaysChallenge"
+title: "Life_Paper - Hardest Experience"
 tags: [Life_Paper]
 feature-img: assets/img/myimages/refresh.jpg
 ---
@@ -11,14 +11,16 @@ Hey there! How are you?
 
 Most of us have great ideas and we wanna implement them, but most of us fail too, because we think that we are committed at start so will succeed in the first attempt. Yes, you will if you stay committed, and here the problem begins.
 
-I have read a lot about mind in the book having my highest respect - Bhagwat Gita. I knew that its very powerful and that when it comes in action it cheats you breaks you and makes you do what consciously undesired things. Recently, I was taken aback when I committed a crime against one of my most dear friends. I confess, I did. I did something which is unimaginably hurtful, and I feel sorry. But, I want to share a deep lesson with you.
+I have read a lot about mind in the book having my highest respect - Bhagwat Gita. I knew that its very powerful and that when it comes in action it cheats you breaks you and makes you do what consciously undesired things.
+
+Recently, I went through one of my Hardest Experiences. I was taken aback when I committed a crime against one of my most dear friends. I confess, I did. I did something which is unimaginably hurtful, and I deeply feel sorry. I still wish I had not learned this lesson this way, but yes that's what has happened. But, I want to share a deep lesson with you.
 > Avoid letting you mind in power, your chances of winning are very low.
 
-Avoid situations that may lead to undesirable outcomes rather than comforting yourself with trust you have on yourself. Avoid them and practice commitment in your daily life that shall give you strength in hard situations. But there is one more thing you gotta do. You will commit mistakes and slowly they shall become okay for you and you shall no more feel guilty for them, slowly you will accept what shouldn't be.
+Avoid situations that may lead to undesirable outcomes rather than comforting yourself with trust you have on yourself. Avoid them and practice commitment in your daily life that shall give you strength in hard situations. Commitments, afaik, mind resists the most as its against mind's basic nature is to flicker. But there is one more thing you gotta do. You will commit mistakes and slowly they shall become okay for you and you shall no more feel guilty for them, slowly you will accept what shouldn't be.
 
-To avoid this confess your mistakes to your loved ones, practice daily introspection and most importantly sharpen your axe by reading elevating texts and practicing commitment(afaik mind resists commitment the most as its nature is to flicker).
+To avoid this confess your mistakes to your loved ones, practice daily introspection and most importantly *sharpen your axe* by reading elevating texts.
 
-This happens with us day to day. I call it ***The Happiness Dilemma***. We must understand that our comfort zone is easy to stay in and comforting too and naturally we(our minds) prefer them but it doesn't really give us happiness. Let me add, if it does, introspect yourself, you might be in ignorance.
+You don't need to *sharpen your axe* just to avoid such mistakes but also to do what *you want*.This happens with us day to day. I call it ***The Happiness Dilemma***. We want satisfaction but we remain in our comfort. We must understand that our comfort zone is easy to stay in and comforting too and naturally we(our minds) prefer them but it doesn't really give us happiness. Let me add, if it does, introspect yourself, you might be in ignorance.
 
 ## Continue?
 For weeks I have not posted my blogs thinking that it was not a good resolution but with some advice I seriously though over it and I think it's the best resolution and now I am going to continue it more seriously. I know I am not serving much content to others but half of my incentive(to help and motivate myself) still gets fulfilled.

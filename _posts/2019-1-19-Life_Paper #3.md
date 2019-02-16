@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life_Paper #4"
+title: "Life_Paper #3"
 tags: [Life_Paper]
 feature-img: assets/img/myimages/persevere.jpg
 ---
