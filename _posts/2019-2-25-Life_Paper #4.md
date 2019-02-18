@@ -32,15 +32,17 @@ This blog is going to be like a Journal, will track my progress and mistakes for
 Sunday(17Feb) starts with multiple failures. I wasted 3 hours in sleepiness(0430 - 0730) and then again two on internet(0900 - 1100).
 
 Get practical, get solution: (*Applies to Week*)
-> **S1** - **<u> Exercise 3 Minutes before each New Task</u>**. Will keep you active throughout while not tiring to sleep.
+> ***S1*** - **<u> Exercise 3 Minutes before each New Task</u>**. Will keep you active throughout while not tiring to sleep.
 
 Accomplishments:
 
-|What|Amount & Percent|
+|What|Amount|
 |---|---|
+|Lazy Snoozes|4Hrs|
+|Started Work At(time?)|2.00PM(6hrLate)|
 |Deep Work Hours|5.5(50%)|
 |20-20-20|All three(100%)|
 |Number of tasks with S1|2(40%)|
 |Total Work Hours|6(40%)|
 
-No, it wasn't what i wanted. I was quite distracted, lets do BETTER TOMORROW.
+No, it wasn't what i wanted. I was quite distracted, lets do BETTER TOMORROW, <u>Be Author Tomorrow</u>.
