@@ -3,7 +3,7 @@ layout: post
 title: "Life_Paper #4 - Eye for an Eye"
 tags: [Life_Paper]
 ---
-Quest with mind. How hard was it?
+Quest with mind. How hard was it? How good were you?
 
 # Plans
 <u>From previous blog</u>:
@@ -26,13 +26,13 @@ Challenge is to **accomplish each day** :
 ---
 
 # Story
-This blog is going to be like a Journal in form of daily logs as that would keep me more transparent and solution oriented.
+This blog is going to be like a Journal, will track my progress and mistakes for us to learn and be more solution oriented.
 
-##### Log1
+#### Log1
 Sunday(17Feb) starts with multiple failures. I wasted 3 hours in sleepiness(0430 - 0730) and then again two on internet(0900 - 1100).
 
 Get practical, get solution: (*Applies to Week*)
-* **S1** - **<u> Exercise 3 Minutes before each New Task</u>**. Will keep you active throughout while not tiring to sleep.
+> **S1** - **<u> Exercise 3 Minutes before each New Task</u>**. Will keep you active throughout while not tiring to sleep.
 
 Accomplishments:
 
