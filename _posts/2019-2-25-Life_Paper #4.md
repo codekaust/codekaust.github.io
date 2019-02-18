@@ -22,7 +22,9 @@ Challenge is to **accomplish each day** :
 * **20-20-20** minutes each to meditation, BG reading, exercise right after I wake up.
 * **Deep 11** - Practice 11 hours of deep work daily when you are disconnected to all social network, mobile silent, practice in quantas of continuous 2 hours.
 * **Be Author** - <i>Do whatever you want.</i> Think and write before you are going to do, you may watch a movie but do it with **your will**.
+
 ---
+
 # Story
 This blog is going to be like a Journal in form of daily logs as that would keep me more transparent and solution oriented.
 
