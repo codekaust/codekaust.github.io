@@ -43,4 +43,4 @@ Accomplishments:
 |Number of tasks with S1|2(40%)|
 |Total Work Hours|6(40%)|
 
-I was quite distracted throughout the day, didn't have a good start and slept too early in place of a nap. Will try better Day2.
+No, it wasn't what i wanted. I was quite distracted, lets do BETTER TOMORROW.
