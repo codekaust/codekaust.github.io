@@ -33,13 +33,13 @@ Broad work goals in order of priority are listed below:
 
 |Work|When|
 |---|---|
-|MTE full Preps (each subject except Software Eng )|Till Wednesday (MTE - Thusrday to Monday)|
+|MTE Full Preps (each subject except Software Eng )|Till Wednesday (MTE - Thursday to Monday)|
 |GSOC Connect to interested orgs|Till Saturday|
 |Apply Summer intern(Companies and Profs) |Till Sunday|
 
 ## The 9DaysChallenge
 
 Challenge is to **accomplish each day** :
-* **20-20-20** minutes each to meditation, BG reading, excercise right after I wake up.
+* **20-20-20** minutes each to meditation, BG reading, exercise right after I wake up.
 * **Deep 11** - Practice 11 hours of deep work daily when you are disconnected to all social network, mobile silent, practice in quantas of continuous 2 hours.
 * **Be Author** - *Do whatever you want.* Think and write before you are going to do, you may watch a movie but do it with **your will**.

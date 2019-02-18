@@ -26,4 +26,4 @@ Week : Sunday Jan 20 - Saturday Jan 26
 * Time blocking for each day - Follow concepts of *Deep Work* and *Pareto Principle* in everyday plans.
 * Record time with Toggl.
 * Make entries for *Life Paper #5* everyday.
-* Read *The Catcher in the Rye* or play Guitar for leisure. (Avoid youtube or other internet based entertainment)
+* Read *The Catcher in the Rye* or play Guitar for leisure. (Avoid YouTube or other internet based entertainment)
