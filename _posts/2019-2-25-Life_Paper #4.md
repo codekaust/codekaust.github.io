@@ -46,3 +46,20 @@ Accomplishments:
 |Total Work Hours|6(40%)|
 
 No, it wasn't what i wanted. I was quite distracted, lets do BETTER TOMORROW, <u>Be Author Tomorrow</u>.
+
+#### Log2
+I woke 3.30AM and left bed but my head was boiling.
+> ***S2*** - **<u> Wake 6AM. </u>**. There is no point in fighting your body, lets slowly get better.
+
+Accomplishments:
+
+|What|Amount|
+|---|---|
+|Lazy Snoozes|3Hrs|
+|Started Work At(time?)|10.50PM(3.5hrLate)|
+|Deep Work Hours|5Hrs(45%)|
+|20-20-20|Yes-Yes-Yes|
+|Total Work Hours|8|
+
+Not as expected. I had went to library with some target out of which I completed only 50%. Pros-Less Sleepy after food.
+REMEMBER TOMORROW : If you feel some tiredness, take a nap don't use your phone or come to room unless you complete the target. Try BETTER TOMORROW. 
