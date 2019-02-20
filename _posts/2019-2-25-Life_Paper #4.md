@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life_Paper #4 - Eye for an Eye"
+title: "Life_Paper #4 - Solve It"
 tags: [Life_Paper]
 ---
 Quest with mind. How hard was it? How good were you?
@@ -26,9 +26,9 @@ Challenge is to **accomplish each day** :
 ---
 
 # Story
-This blog is going to be like a Journal, will track my progress and mistakes for us to learn and be more solution oriented.
+This blog is going to be like a Journal, will track my progress and mistakes for us to learn and be more solution oriented. One *Log* per day.
 
-#### Log1
+#### Log 1
 Sunday(17Feb) starts with multiple failures. I wasted 3 hours in sleepiness(0430 - 0730) and then again two on internet(0900 - 1100).
 
 Get practical, get solution: (*Applies to Week*)
@@ -47,7 +47,7 @@ Accomplishments:
 
 No, it wasn't what i wanted. I was quite distracted, lets do BETTER TOMORROW, <u>Be Author Tomorrow</u>.
 
-#### Log2
+#### Log 2
 I woke 3.30AM and left bed but my head was boiling.
 > ***S2*** - **<u> Wake 7AM. </u>**. There is no point in fighting your body, lets slowly get better.
 
@@ -63,8 +63,16 @@ Accomplishments:
 
 Not as expected. I had went to library with some target out of which I completed only 50%. Pros-Less Sleepy after food.
 REMEMBER TOMORROW : If you feel some tiredness, take a nap don't use your phone or come to room unless you complete the target. Try BETTER TOMORROW.
-#### Log3
+
+#### Log 3
 It was an OKAY day, performance like *Log2*, but things are not going appropriate. I need more concentration and attraction because what I am chasing is not OKAY, its special, so should the chase be.
 
 Remember this tomorrow:
 > ***S3*** - **Make general day targets and a time block short commitments, i.e. WHIPLASH**(DW for an hour) **& REST**(5 minute nap(no electronic media))**.**
+
+#### Log 4
+One of the most serious issue I am facing is though I get up on time and make plans and everything, *I end up wasting time and getting to work around 5.00PM*. Another issue being *low concentration slow work*.Mistakes noticed:
+* **Internet** - Watching videos or using social media at start of work, ending up with tiredness and a loss of *will*.
+* **Overeating** - Overeating and then feeling sleepy.
+* **Bounding Breaks** - Not able to end breaks on time. A 10 minute break extends to 1 hour. You should take breaks but *they should give you rest*(not tire you) & *end them as planned*.
+* **Shallow Work** - Thinking of things around or sometimes thinking of what needs to be done etc. Strictly follow ***S3***.
