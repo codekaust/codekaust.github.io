@@ -49,7 +49,7 @@ No, it wasn't what i wanted. I was quite distracted, lets do BETTER TOMORROW, <u
 
 #### Log2
 I woke 3.30AM and left bed but my head was boiling.
-> ***S2*** - **<u> Wake 6AM. </u>**. There is no point in fighting your body, lets slowly get better.
+> ***S2*** - **<u> Wake 7AM. </u>**. There is no point in fighting your body, lets slowly get better.
 
 Accomplishments:
 
@@ -62,4 +62,9 @@ Accomplishments:
 |Total Work Hours|8|
 
 Not as expected. I had went to library with some target out of which I completed only 50%. Pros-Less Sleepy after food.
-REMEMBER TOMORROW : If you feel some tiredness, take a nap don't use your phone or come to room unless you complete the target. Try BETTER TOMORROW. 
+REMEMBER TOMORROW : If you feel some tiredness, take a nap don't use your phone or come to room unless you complete the target. Try BETTER TOMORROW.
+#### Log3
+It was an OKAY day, performance like *Log2*, but things are not going appropriate. I need more concentration and attraction because what I am chasing is not OKAY, its special, so should the chase be.
+
+Try this tomorrow:
+> ***S3*** - **<u> Make general day targets and a time block short commitments, i.e. WHIPLASH**(DW for an hour) **& REST**(5 minute nap(no electronic media))**.**
