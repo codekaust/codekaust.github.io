@@ -67,4 +67,4 @@ REMEMBER TOMORROW : If you feel some tiredness, take a nap don't use your phone 
 It was an OKAY day, performance like *Log2*, but things are not going appropriate. I need more concentration and attraction because what I am chasing is not OKAY, its special, so should the chase be.
 
 Remember this tomorrow:
-> ***S3*** - **<u> Make general day targets and a time block short commitments, i.e. WHIPLASH**(DW for an hour) **& REST**(5 minute nap(no electronic media))**.**
+> ***S3*** - **Make general day targets and a time block short commitments, i.e. WHIPLASH**(DW for an hour) **& REST**(5 minute nap(no electronic media))**.**
