@@ -6,7 +6,7 @@ tags: [Life_Paper]
 Quest with mind. How hard was it? How good were you?
 
 # Plans
-<u>From previous blog</u>:
+From previous [blog](https://codekaust.github.io/2019/02/16/Life_Paper-Hardest-Experience.html):
 #### WeekForward(9 days)
 Broad work goals in order of priority are listed below:
 
