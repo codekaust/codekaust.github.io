@@ -76,3 +76,4 @@ One of the most serious issue I am facing is though I get up on time and make pl
 * **Overeating** - Overeating and then feeling sleepy.
 * **Bounding Breaks** - Not able to end breaks on time. A 10 minute break extends to 1 hour. You should take breaks but *they should give you rest*(not tire you) & *end them as planned*.
 * **Shallow Work** - Thinking of things around or sometimes thinking of what needs to be done etc. Strictly follow ***S3***.
+> Break the Excuses. Live a Dream.
