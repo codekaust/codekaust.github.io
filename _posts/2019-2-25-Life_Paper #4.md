@@ -77,3 +77,15 @@ One of the most serious issue I am facing is though I get up on time and make pl
 * **Bounding Breaks** - Not able to end breaks on time. A 10 minute break extends to 1 hour. You should take breaks but *they should give you rest*(not tire you) & *end them as planned*.
 * **Shallow Work** - Thinking of things around or sometimes thinking of what needs to be done etc. Strictly follow ***S3***.
 > Break the Excuses. Live a Dream.
+
+#### Log 5
+I have an exams from tomorrow and preparation status is 40%. A lot is left to do and still I am under-performing. I woke up at 4.00AM. And its 7.40AM -> Studied for 1 Hour. Not Done.
+
+The college [incident](http://archive.indianexpress.com/news/worked-nonstop-3days-to-save-mit-scholarship-kalam/656018/) of Kalam Sir has always been a dream. Lets try to live at-least a day out of it.
+**Challenge** - No excuses. Work for 16 hours. (8.00AM to 1.30AM)
+
+---
+
+I couldn't log in for left days and I am abruptly ending this blog here. I will add all my learning and new strategies in next blog.
+
+Thanks a lot for your time.
