@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Life_Paper #4 - Re-Strategize"
+title: "Life_Paper - Re-Strategize"
 tags: [Life_Paper]
 ---
+Hey there! This blog will share my strategies and future plans after not-so-good experience of last two months.
 
 After the previous hectic week and exams, I analyzed thoroughly what I wanted, what is happening and most importantly what steps need to be taken. Never forget regularly reviewing plans is the plan.
-
-Hey there! This blog will share my strategies and future plans after not-so-good experience of last two months.
 
 The most important reason of this blog was to motivate me for work and remind me my targets. Did it work? Yes, I constantly knew what I had decided to do and was motivated too. Did it perform? NO.
 
@@ -63,4 +62,4 @@ Also, here are some tips for day-planning:
 
 At last I just wanna say that enjoy then work or work then enjoy take the same amount of time and effort of done ideally and in reality working the first way out is too tough and risky. Yes, life is short and this college time won't return too, so enjoy, travel, party and have fun but with knowledge that *life isn't just today*.
 
-I hope all you have a great time ahead. Taking off! 
+I hope all you have a great time ahead. Taking off!
