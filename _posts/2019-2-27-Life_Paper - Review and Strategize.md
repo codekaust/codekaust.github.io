@@ -38,7 +38,7 @@ So, with strategizing these practical-regular goals I need to monitor **PERFORMA
   - **Acads part1 -> 2 hours daily (b/w 4 to 8 pm)**.
     - To be done **at Library only**.
 - Health and Will-Power maintenance
-  - I have experienced and it has been discovered that each of us wakes up with some finite amount of "will" which gets consumed every time we do something which is out-of-comfort (that most of "work" is). If you snooze the first alarm, then waking on the next one would consume a great part of will-stock. So, I really a good morning-ritual.
+  - I have experienced and it has been discovered that each of us wakes up with some finite amount of "will" which gets consumed every time we do something which is out-of-comfort (that most of "work" is). If you snooze the first alarm, then waking on the next one would consume a great part of will-stock. So, I really need a good morning-ritual.
   - Morning Ritual(2.5 hours):
     - **20-20-20** minutes each to meditation, BG reading, exercise right after I wake up.
     - **Power90** - Dedicate 90 minutes to one of your most important goals which require the highest mental input. For now its GSOC.
