@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life_Paper #5 - 11 Days Stick"
+title: "Life_Paper #5 - Stick11"
 tags: [Life_Paper]
 ---
 I prepare and will stick to a 11 days challenge. Lets see what happens.
@@ -35,4 +35,4 @@ Its 2 March,2019.
 |Total Deep Work(min sitting 2.5hrs) Hours| hours||
 |Meditation-Book Reading-Exercise-Power90(GSOC)|20-20-20-90 minutes|0+5+0+0|
 |Wake|Before 7am|0|
-||Total|100|
+||Total|0|
