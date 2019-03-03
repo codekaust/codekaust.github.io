@@ -16,7 +16,7 @@ You need to log following PERFORMANCE MEASURE table daily. The table contains id
 |-|-|-|
 |Time Input GSOC|6 hours|30|
 |Acads(P1) at library|2 hours|10|
-|Total Deep Work(min sitting 2.5hrs) Hours|6 hours|30|
+|Total Deep Work(min sitting 2.5hrs)|6 hours|30|
 |Meditation-Book Reading-Exercise-Power90(GSOC)|20-20-20-90 minutes|5+5+5+10|
 |Wake|Before 7am|5(-5 per half hour)|
 ||Total|100|
@@ -30,9 +30,9 @@ Its 2 March,2019.
 
 |Measure|Value|Marks|
 |-|-|-|
-|Time Input GSOC| hours||
-|Acads(P1) at library| hours||
-|Total Deep Work(min sitting 2.5hrs) Hours| hours||
+|Time Input GSOC|0 hours|0|
+|Acads(P1) at library|0 hours|0|
+|Total Deep Work(min sitting 2.5hrs)|7 hours|35|
 |Meditation-Book Reading-Exercise-Power90(GSOC)|20-20-20-90 minutes|0+5+0+0|
-|Wake|Before 7am|0|
-||Total|0|
+|Wake|Before 7am|5|
+||Total|45|
