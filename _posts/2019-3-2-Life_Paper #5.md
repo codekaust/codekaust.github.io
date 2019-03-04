@@ -54,4 +54,4 @@ I am seriously facing this problem of loosing all the goals and motivation I had
 |Meditation-Book Reading-Exercise-Power90(GSOC)|20-20-20-90 minutes|5+5+0+0|
 |Wake|Before 7am|5|
 |Extras|||
-||Total|45|
+||Total|0|
