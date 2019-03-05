@@ -20,7 +20,9 @@ Duration: March 5, 6.30 PM - March 12, 6.30PM
 |Time Input GSOC|10 hours|
 |Acads|2 hours|
 |Total Deep Work(min sitting 2hrs)|8 hours|
-|Total Work|12|
+|Sleeping hours|6 hours|
+|Wasted Time|0 hours|
+|Total Work|13 hours|
 
 ***Log each evening.***
 
