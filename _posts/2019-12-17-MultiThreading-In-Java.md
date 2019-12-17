@@ -190,6 +190,7 @@ class MyThread extends Thread{
 	}
 }
 ```
+
 Output:
 ```
 false
@@ -197,6 +198,7 @@ true
 true
 false
 ```
+
 Output if you comment `m.join()`:
 ```
 false
@@ -204,6 +206,7 @@ true
 true
 true
 ```
+
 ### <u>Thread Priorities</u>
 In JVM every thread must have a priority either given by degfault by JVM or by programmer. Thread priorities in java vary from **1 to 10** (priority increases with number).
 - 1 = least priority
