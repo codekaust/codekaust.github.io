@@ -8,7 +8,7 @@ tags: [notes]
 Note: Instructions in a single thread always run synchronously.
 
 ## States of a Thread
-![states_image](https://github.com/codekaust/codekaust.github.io/blob/master/assets/img/myimages/1.png)
+![states_image](https://i.imgur.com/1MlxxmI.png)
 
 - **NEW**: Thread created but not yet started.
 - **RUNNABLE**: Thread ready to run is moved in runnable state. Here, a thread is either running or is ready to run in JVM, though it may be waiting for other resources from the operating system such as processor.
@@ -159,7 +159,7 @@ public class DaemonExample{
 }
 ```
 
-Because of line 10, nothing will print (as main exits as soon as t starts). [Check this out](https://github.com/codekaust/codekaust.github.io/blob/master/assets/img/myimages/2.png).
+Because of line 10, nothing will print (as main exits as soon as t starts). [Check this out](https://i.imgur.com/Yp5sK40.png).
 ### <u>Important Methods</u>
 
 #### Thread.currentThread()
@@ -307,7 +307,7 @@ A better approach can be to:
 **NOTE:** Methods `wait()`, `notify()`, `notifyAll()` are present in class `Object` and not in class `Thread`.
 
 ### Thread Lifecycle
-![Thread Lifecycle](https://github.com/codekaust/codekaust.github.io/blob/master/assets/img/myimages/3.png)
+![Thread Lifecycle](https://i.imgur.com/uF0CZ8X.png)
 
 ### Difference b/w `notify()` and `notifyAll()`
 1. `notify()` method send notification to only one of waiting thread while `notifyAll()` informs all threads waiting on that lock.
