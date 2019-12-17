@@ -6,6 +6,7 @@ tags: [notes]
 # Java Multi-Threading
 **Thread**: Lightweight sub process, with separate and independent path of execution, created by `java.lang.Thread` class.
 Note: Instructions in a single thread always run synchronously.
+
 ## States of a Thread
 ![states_image](assets/img/myimages/1.png)
 
@@ -54,6 +55,7 @@ All thread are created cascading from the `main` thread. Threads are created as:
         - Execute thread by `thread.start()`
 
 ## Examples for Syntax
+
 #### ThreadUsingThreadClass
 ```java
 public class ThreadUsingThreadClass{
@@ -93,8 +95,11 @@ class MyThread2 extends Thread{
 	}
 }
 ```
+
 Take note of **line 9, 30**.
+
 #### ThreadUsingRunnableInterface
+
 Without using lambda:
 ```java
 public class ThreadUsingRunnableInterface{
@@ -117,7 +122,6 @@ class MyRunnable implements Runnable{
 }
 ```
 
-
 Using lambda and Anonymous class:
 ```java
 public class ThreadUsingRunnableInterface{
@@ -131,8 +135,11 @@ public class ThreadUsingRunnableInterface{
 	}
 }
 ```
+
 ## More about Threads
+
 ### <u>Daemon Threads</u>
+
 Daemon thread is a lowest priority thread that runs in background to perform tasks such as garbage collection. Daemon threads *cannot prevent JVM to exit* once all users have completed execution (which means once all user threads are executed, JVM exits, closing all daemons threads also, even if they are running)
 **Syntax**:
 ```java
@@ -151,11 +158,16 @@ public class DaemonExample{
 	}
 }
 ```
+
 Because of line 10, nothing will print (as main exits as soon as t starts). [Check this out](assets/img/myimages/2.png).
 ### <u>Important Methods</u>
+
 #### Thread.currentThread()
+
 This static method return object of currently executing thread.
+
 #### NAME and ID:
+
 Note: You can never set id for any thread.
 1. Using constructor:
     - In constructor of class `Thread`, one may pass thread name as parameter.
@@ -164,9 +176,13 @@ Note: You can never set id for any thread.
     - Can use `thread.getName()`, `thread.getId()` to get the respective.
         - Can use `this` as `thread` object inside a `Thread` class.
         - You may get the `thread` object using `Thread.currentThread()`. Helpful to get `thread` object in static functions.
+
 #### Thread.sleep(millisecs):
+
 - This method is used to make the current thread sleep for some milliseconds.
+
 #### thread.isAlive() *&* thread.join()
+
 Usage:
 ```java
 public class MyClass{
@@ -275,6 +291,7 @@ class Counter{
 	}
 }
 ```
+
 ## Inter-Thread Communication
 Communication between two threads is done basically using methods: `wait()`, `notify()`, `notifyAll()` methods.
 
@@ -374,12 +391,14 @@ public class test{
 	}
 }
 ```
+
 You will notice patters like:
 ```
 Put: 1
 Put: 2
 Get: 1
 ```
+
 So we are getting wrong value and the methods are not in order. Wrong value issue can be used by using **synchronized** keyword for `put()` and `get()`. But, then the correct order may still not appear (try making the waiting times for while loops different to make the order problematic).
 
 Correct way:
